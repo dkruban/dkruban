@@ -1,5 +1,29 @@
 👨‍💻 About Me
 {  "name": "Ruban.M",  "role": "AI Prompter & Automation Specialist",  "location": "India",  "focus": [    "Prompt Engineering",    "AI/ML Workflows",    "Creative Automation"  ],  "tech_stack": [    "Python",    "JavaScript",    "OpenAI API",    "Claude API",    "Automation Tools"  ],  "status": "Building AI-powered solutions that solve real-world problems."}
+
+---
+
+### ⚠️ VERY IMPORTANT FIX (Your Graphs are broken)
+
+I noticed in your screenshot that the **GitHub Stats graphs** are missing (they show broken image icons). This is because the code I gave you used `username=dkruban`, but I don't know your exact username.
+
+**To fix the graphs:**
+
+1.  Look at your GitHub URL. It is `github.com/??`.
+2.  Copy that username.
+3.  Find these lines in your `README.md` and replace `dkruban` with your username:
+
+*   Find: `...api?username=**dkruban**&...`
+*   Find: `...user=**dkruban**&...`
+*   Find: `...graph?username=**dkruban**&...`
+
+**Example:** If your username is `ruban-m`, the line should change from:
+`https://github-readme-stats.vercel.app/api?username=dkruban&...`
+to:
+`https://github-readme-stats.vercel.app/api?username=ruban-m&...`
+
+Once you update the username, the colorful graphs and charts will appear instantly.
+
 📊 GitHub Stats
 <div align="center">
 <!-- Main Stats Card -->
