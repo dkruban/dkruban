@@ -1,7 +1,3 @@
-👨‍💻 About Me
-{  "name": "Ruban.M",  "role": "AI Prompter & Automation Specialist",  "location": "India",  "focus": [    "Prompt Engineering",    "AI/ML Workflows",    "Creative Automation"  ],  "tech_stack": [    "Python",    "JavaScript",    "OpenAI API",    "Claude API",    "Automation Tools"  ],  "status": "Building AI-powered solutions that solve real-world problems."}
-</div>
-```
 📊 GitHub Stats
 <div align="center">
 <!-- Main Stats Card -->
@@ -52,5 +48,9 @@ Creative-Tech-Bot	A bot that generates creative content on demand.	Stars	Python,
 <br/>
 
 <p align="center">Made with ❤️ by <a href="https://github.com/dkruban">Ruban.M</a></p>
+</div>
+```
+👨‍💻 About Me
+{  "name": "Ruban.M",  "role": "AI Prompter & Automation Specialist",  "location": "India",  "focus": [    "Prompt Engineering",    "AI/ML Workflows",    "Creative Automation"  ],  "tech_stack": [    "Python",    "JavaScript",    "OpenAI API",    "Claude API",    "Automation Tools"  ],  "status": "Building AI-powered solutions that solve real-world problems."}
 </div>
 ```
