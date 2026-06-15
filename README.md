@@ -1,5 +1,8 @@
+Typing SVG
+Ruban.M
+LinkedInGmailGitHub
 👨‍💻 About Me
- { "name": "Ruban.M",  "role": "AI Prompter & Automation Specialist",  "location": "India",  "focus": [    "Prompt Engineering",    "AI/ML Workflows",    "Creative Automation"  ],  "tech_stack": [    "Python",    "JavaScript",    "OpenAI API",    "Claude API",    "Automation Tools"  ],  "status": "Building AI-powered solutions that solve real-world problems."}
+{  "name": "Ruban.M",  "role": "AI Prompter & Automation Specialist",  "location": "India",  "focus": [    "Prompt Engineering",    "AI/ML Workflows",    "Creative Automation"  ],  "tech_stack": [    "Python",    "JavaScript",    "OpenAI API",    "Claude API",    "Automation Tools"  ],  "status": "Building AI-powered solutions that solve real-world problems."}
 📊 GitHub Stats
 <div align="center">
 <!-- Main Stats Card -->
@@ -10,12 +13,12 @@
 
 <br/><br/>
 
-<!-- Streak Stats (The calendar-like graph) -->
+<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkruban&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Contribution Activity Graph (The line chart) -->
+<!-- Contribution Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkruban&theme=radical&bg_color=0D1117&color=2AF598&line=2AF598&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
@@ -52,3 +55,5 @@ Creative-Tech-Bot	A bot that generates creative content on demand.	Stars	Python,
 <p align="center">Made with ❤️ by <a href="https://github.com/dkruban">Ruban.M</a></p>
 </div>
 ```
+
+
