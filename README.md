@@ -1,5 +1,5 @@
 👨‍💻 About Me
-```{
+{
   "name": "Ruban.M",
   "role": "AI Prompter & Automation Specialist",
   "location": "India",
@@ -16,7 +16,7 @@
     "Automation Tools"
   ],
   "status": "Building AI-powered solutions that solve real-world problems."
-}```
+}
 
 📊 GitHub Stats
 <div align="center">
